@@ -1,0 +1,1 @@
+The code consist of lotto, rock-paper-scissors and coin toss.
